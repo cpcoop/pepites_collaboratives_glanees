@@ -1,3 +1,9 @@
+---
+title: Le Gratos Languedocien
+description: Glanée à l'association Outils Réseaux, cette méthode permet de répondre à plusieurs sollicitations d'aide en un atelier.
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/gratos.jpg?raw=true
+---
+
 # Gratos Languedocien
 
 Publication de la recette libre pour organiser les  gratos du mois  : une journée autour d’ateliers (Installer son calendrier en ligne, monter une visio-conférence, s’organiser avec freemind...) auto-gérés entre participants.
