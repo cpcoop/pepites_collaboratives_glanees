@@ -1,3 +1,9 @@
+---
+title: Créer un FabLab
+description: Lorsque Nod-A a accepté de nous partager cette méthodologie complète, on été ravis. On a pu la partager un peu partout autour de nous.
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/fablab-squared-ccbysa.jpg?raw=true
+---
+
 # Les FabLabs
 
 ![Fablab](http://farm8.staticflickr.com/7217/13532824703_2f030e104c_z.jpg)
