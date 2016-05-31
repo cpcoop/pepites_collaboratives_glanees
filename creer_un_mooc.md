@@ -1,5 +1,10 @@
+---
+title: Créer un Mooc, sérieux?
+description: On est allé interviewer des créateurs de Mooc sur comment ils ont fait et combien ça coûte.
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/creer_un_mooc.jpg?raw=true
+---
+
 # Les MOOCs
-## En une phrase
 
 Un MOOC est un dispositif de formation initiale ou continue, en ligne et à distance, massivement ouvert et accessible à tous. **[1](#note)**
 
