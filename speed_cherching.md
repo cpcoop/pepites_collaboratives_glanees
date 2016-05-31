@@ -1,3 +1,9 @@
+---
+title: Speed cherching, un détournement du speed dating
+description: Au cpcoop, on apprécie la qualité des échanges en petits groupes. Le speed cherching a été pour susciter la curiosité du public et d'établir un échange entre scientifiques et non scientifiques. On s'est inspiré de la méthode.
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/speed-wikimedia-cc-by.jpg?raw=true
+---
+
 # Speed cherching  
 
 ## En une phrase  
