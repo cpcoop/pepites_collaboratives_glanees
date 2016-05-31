@@ -1,7 +1,7 @@
 ---
 title: Publier des recherches scientifiques sous licences Creative Commons
 description: Un fascicule / argumentaire que nous présentions aux chercheurs pour inciter la publication sous licences libres
-image_ul: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/recherche-creative-commons.jpg?raw=true
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/recherche-creative-commons.jpg?raw=true
 ---
 
 # Publier une recherche scientifique en Creative commons
