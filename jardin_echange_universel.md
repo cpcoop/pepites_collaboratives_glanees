@@ -1,3 +1,9 @@
+---
+title: Mettre en place un Jardin d'Echanges Universel
+description: Méthode complète explicitée par le réseau J.E.U et l'aimable aide de Chloé Richaud.
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/jardin_echange-lacoroutine-ccby.jpg?raw=true
+---
+
 # Jardin d’Échange Universel (J.E.U.)
 
 ![JEU](http://farm1.staticflickr.com/93/220929743_228ed8e12f_z.jpg?zz=1)
