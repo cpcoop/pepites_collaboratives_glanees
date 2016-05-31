@@ -1,6 +1,10 @@
-# Coach clinic
+---
+title: La Coach clinic agile
+description: Une Coach Clinic est un service mis à disposition des participants de la conférence pour obtenir de l'aide gratuite de la part de coachs expérimentés.
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/coach_clinic.jpg?raw=true
+---
 
-## En une phrase
+# Coach clinic
 
 Une Coach Clinic est un service mis à disposition des participants de la conférence pour obtenir de l'aide gratuite de la part de coachs expérimentés.
 
