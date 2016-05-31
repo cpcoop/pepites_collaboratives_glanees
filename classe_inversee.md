@@ -1,11 +1,8 @@
 ---
-published: false
-title: "Contribution "
-description: La classe inversée est une méthode pédagogique
-author: Stéphane; Alan; Thomas
-tags: null
+title: La classe inversée
+description: Nous avions voulu en savoir plus sur cette méthode pédagogique, Alan est allé interviewer des practiciens
+image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/classe_inversee.jpg?raw=true
 ---
-
 
 
 # La classe inversée
