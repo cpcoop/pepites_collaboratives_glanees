@@ -9,3 +9,6 @@ image_url: https://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/
 Nous partageons ici quelques pépites collaboratives que nous avons découvertes au cours de nos explorations. 
 Ces documents - que nous trouvons de bonne qualité - sont tous sous licence libre pour que vous puissiez les réutiliser.
 Bonne exploration.
+
+**[Lien vers les ressources du dépôt de fiches](http://www.multibao.org/#cpcoop/pepites_collaboratives_glanees)**
+
